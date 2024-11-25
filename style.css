@@ -242,11 +242,11 @@ footer{
     }
 
     .hobby-card {
-        background-color: #5c5c5c;
-        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.2);
+        border-radius: 8px;
+        padding: 10px;
         height: 300px;
-        width: px;
-        border-radius: 5px;
+        width: 300px;
     }
 
     .gallery-container {
